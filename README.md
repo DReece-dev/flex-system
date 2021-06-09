@@ -1,2 +1,2 @@
-# flex-system
+# Flex-system
 CSS Flexbox System
